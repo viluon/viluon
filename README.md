@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm Andrew (or, at your option, Ondřej), and I hack on compilers. 
+
+Some thoughts:
+- specifications are cool. A machine-readable specification is a specification which itself has a specification.
+- I'm surprised I haven't come across compiler combinators, i.e. a DSL for specifying language semantics that lets you automatically derive a compiler. This would be a fun project to work on.
+- if you care about (high-level) information, you have to stop throwing it away. This is why I love how [Unison](https://github.com/unisonweb/unison) preserves typed ASTs and why I don't like low-level programming.
+- objective complexity should play an important role in design decisions. This is why I consider the UNIX filesystem principle of a unified rooted tree to be cleaner than drive letter assignment and the reason why I don't like languages like C++.
 
 <!--
 **viluon/viluon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
