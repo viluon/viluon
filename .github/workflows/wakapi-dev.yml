@@ -1,0 +1,20 @@
+name: wakapi.dev readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at every 12AM UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_DEV_API_KEY }}
+          API_BASE_URL: https://wakapi.dev/api
+          TIME_RANGE: last_30_days
+          COMMIT_MESSAGE: Update readme with wakapi.dev metrics
+          SHOW_TOTAL: true
