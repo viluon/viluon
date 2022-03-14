@@ -7,6 +7,11 @@ Some thoughts to paint a picture:
 - objective complexity should play an important role in design decisions. This is why I consider the UNIX filesystem principle of a unified rooted tree to be cleaner than drive letter assignment and the reason why I dislike languages like C++.
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
