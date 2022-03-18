@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_DEV_API_KEY }}
-          API_BASE_URL: https://wakapi.dev/api
-          TIME_RANGE: 7_days
+          API_BASE_URL: ${{ secrets.WAKAPI_DEV_URL }}
+          TIME_RANGE: last_7_days
           COMMIT_MESSAGE: Update readme with wakapi.dev metrics
           SHOW_TOTAL: true
