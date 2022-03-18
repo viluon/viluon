@@ -9,7 +9,13 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 14 hrs 46 mins
+
+Rust           7 hrs 45 mins   █████████████░░░░░░░░░░░░   52.05 %
+C++            4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 %
+Scala          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Markdown       54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
