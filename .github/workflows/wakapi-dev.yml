@@ -15,6 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_DEV_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
-          TIME_RANGE: last_30_days
+          TIME_RANGE: 7_days
           COMMIT_MESSAGE: Update readme with wakapi.dev metrics
           SHOW_TOTAL: true
