@@ -9,13 +9,14 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 18 mins
+Total Time: 21 hrs 23 mins
 
-Rust           9 hrs 48 mins   ██████████▓░░░░░░░░░░░░░░   42.03 %
-Scala          9 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   39.01 %
-Python         4 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Scala      12 hrs 33 mins  ██████████████▓░░░░░░░░░░   58.69 %
+Rust       4 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Python     4 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Markdown   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+sbt        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
