@@ -9,12 +9,12 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 56 mins
+Total Time: 22 hrs 18 mins
 
-Rust               16 hrs 33 mins  ████████████████████▒░░░░   81.30 %
-C++                2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Literate Haskell   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Other              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Rust               15 hrs 6 mins   ████████████████▓░░░░░░░░   66.49 %
+C++                5 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+Literate Haskell   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
