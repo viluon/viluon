@@ -9,13 +9,14 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 27 mins
+Total Time: 15 hrs 37 mins
 
-C++                7 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.72 %
-Rust               6 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
-Literate Haskell   2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Python             1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Other              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Rust               5 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 %
+C++                5 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.30 %
+Literate Haskell   2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Python             1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Makefile           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+TeX                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
