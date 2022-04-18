@@ -9,14 +9,14 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 11 mins
+Total Time: 21 hrs 56 mins
 
-Rust               9 hrs 32 mins   ███████████░░░░░░░░░░░░░░   44.33 %
-Scala              4 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-C++                1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Literate Haskell   1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Python             1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-sbt                50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Rust               9 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.41 %
+Scala              6 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
+C++                1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Python             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+sbt                50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+YAML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
