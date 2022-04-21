@@ -9,14 +9,14 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 4 mins
+Total Time: 17 hrs 51 mins
 
-Scala              10 hrs 12 mins  ██████████████░░░░░░░░░░░   55.48 %
-Rust               4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-C++                1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-sbt                50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-YAML               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-textmate           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Scala              10 hrs 12 mins  ██████████████░░░░░░░░░░░   56.17 %
+Rust               4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+C++                58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+sbt                50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+YAML               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+textmate           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
