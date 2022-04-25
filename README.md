@@ -9,14 +9,14 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 59 mins
+Total Time: 3 hrs 37 mins
 
-Scala        6 hrs 4 mins    █████████████████████▓░░░   86.63 %
-textmate     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-C++          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-CMake        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Scala      3 hrs 15 mins   ██████████████████████▒░░   89.99 %
+C++        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+textmate   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+SWIG       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
