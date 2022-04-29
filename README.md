@@ -9,14 +9,13 @@ Some thoughts to paint a picture:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs 59 mins
+Total Time: 19 hrs 20 mins
 
-Scala        12 hrs 28 mins  ███████████████████▒░░░░░   77.95 %
-C++          1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Python       1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-sbt          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Scala        12 hrs 28 mins  ███████████████▓░░░░░░░░░   62.15 %
+C++          3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Bash         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Python       1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
