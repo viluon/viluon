@@ -12,8 +12,6 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 25 mins
-
 Scala        12 hrs 33 mins  ███████████████▓░░░░░░░░░   62.30 %
 C++          3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
 Bash         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
