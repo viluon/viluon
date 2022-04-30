@@ -17,4 +17,4 @@ jobs:
           API_BASE_URL: ${{ secrets.WAKAPI_DEV_URL }}
           TIME_RANGE: last_7_days
           COMMIT_MESSAGE: Update readme with wakapi.dev metrics
-          SHOW_TOTAL: true
+          SHOW_TOTAL: false
