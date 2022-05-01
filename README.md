@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala        12 hrs 33 mins  ███████████████▓░░░░░░░░░   62.30 %
-C++          3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-Bash         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Python       1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Scala        12 hrs 46 mins  █████████████░░░░░░░░░░░░   51.89 %
+Rust         3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+C++          3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Bash         2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Other        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
