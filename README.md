@@ -12,9 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala            16 hrs 30 mins  █████████████▓░░░░░░░░░░░   54.07 %
-Rust             10 hrs 43 mins  ████████▓░░░░░░░░░░░░░░░░   35.14 %
-Other            2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Scala            18 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.26 %
+Rust             10 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   32.63 %
+Other            2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
