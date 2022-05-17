@@ -12,12 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala          21 hrs 57 mins  █████████████████░░░░░░░░   67.58 %
-Rust           5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Python         2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-SWIG           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-C++            36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Markdown       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Scala          28 hrs 57 mins  ██████████████████▒░░░░░░   73.31 %
+Rust           4 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Python         2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+SWIG           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+C++            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
