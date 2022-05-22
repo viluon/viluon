@@ -12,12 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala          29 hrs 55 mins  ███████████████████████░░   92.02 %
-SWIG           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-C++            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Markdown       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-sbt            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JSON           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Scala         23 hrs 42 mins  ████████████████████████▓   98.59 %
+sbt           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Diff          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+C++           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
