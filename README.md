@@ -12,10 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 4 mins    ███████████████████▒░░░░░   77.90 %
-Scala    1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python   5 hrs 1 min     ████████████████████████▓   98.60 %
+C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
