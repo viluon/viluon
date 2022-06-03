@@ -12,10 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust     6 hrs 24 mins   ████████████████████▒░░░░   81.09 %
-Python   57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-TOML     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Rust   6 hrs 24 mins   ███████████████████████░░   92.26 %
+TOML   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+JSON   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
