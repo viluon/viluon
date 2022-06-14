@@ -12,9 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust    9 hrs 14 mins   ███████████████████████▓░   94.97 %
-CSV     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Rust    9 hrs 45 mins   ███████████████████████▒░   93.89 %
+CSV     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
