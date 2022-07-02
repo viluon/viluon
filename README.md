@@ -12,12 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala         6 hrs 51 mins   █████████████████████████   99.61 %
-sbt           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CMake file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-C++           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
