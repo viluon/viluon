@@ -12,12 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala            12 hrs 27 mins  ████████████████████████▒   97.82 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-sbt              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Scala      11 hrs 51 mins  ████████████████████████▓   99.06 %
+sbt        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
