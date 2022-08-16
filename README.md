@@ -12,11 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala      11 hrs 33 mins  ████████████████████████░   95.93 %
-Markdown   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-sbt        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Scala      4 hrs 50 mins   ██████████████░░░░░░░░░░░   55.99 %
+Markdown   2 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   28.27 %
+Lua        46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Other      34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 
 <!--END_SECTION:waka-->
