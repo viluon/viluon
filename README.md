@@ -12,7 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala   2 hrs 12 mins   █████████████████████████   100.00 %
+Scala   5 hrs 22 mins   █████████████████████████   99.88 %
+sbt     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
