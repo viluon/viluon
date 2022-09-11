@@ -12,7 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Scala   8 mins          █████████████████████████   100.00 %
+YAML    37 mins         █████████████████▒░░░░░░░   68.98 %
+C++     15 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
