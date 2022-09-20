@@ -12,10 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-C++           6 hrs 8 mins    ████████████████████████░   95.98 %
-YAML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Singularity   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+C++        6 hrs 19 mins   ████████████████████████░   95.60 %
+YAML       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
