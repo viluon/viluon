@@ -12,10 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX      2 hrs 41 mins   █████████████░░░░░░░░░░░░   52.44 %
-Python   2 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   47.17 %
-Git      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TeX   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
