@@ -12,7 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX   17 mins         █████████████████████████   100.00 %
+TeX    32 mins         ████████████████████████▓   98.64 %
+C      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
