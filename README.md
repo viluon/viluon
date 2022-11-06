@@ -12,10 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX        5 hrs 6 mins    ██████████████▓░░░░░░░░░░   58.29 %
-C++        1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Rust       56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Other      34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+TeX        4 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.04 %
+Java       2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+C++        1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Rust       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+XML        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
