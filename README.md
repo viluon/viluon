@@ -12,9 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-C++     9 mins          ███████████████▓░░░░░░░░░   62.10 %
-Rust    5 mins          █████████▒░░░░░░░░░░░░░░░   37.44 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+C++     1 hr            █████████████████████▓░░░   86.37 %
+Rust    5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Bash    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
