@@ -12,12 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   53 mins         █████████████░░░░░░░░░░░░   52.58 %
-Python     43 mins         ███████████░░░░░░░░░░░░░░   43.54 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Rust       6 hrs 15 mins   ██████████████████▓░░░░░░   74.24 %
+Python     1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Markdown   53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+TOML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
