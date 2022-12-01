@@ -12,12 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust       28 hrs 58 mins  ██████████████████████░░░   88.02 %
-YAML       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Python     57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Markdown   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-TOML       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Rust       32 hrs 10 mins  ██████████████████████▒░░   89.66 %
+YAML       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+TOML       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
