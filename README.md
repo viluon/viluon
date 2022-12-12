@@ -12,12 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust             2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-Java             1 hr 52 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-Text             1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-YAML             1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-TOML             43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-textmate         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Rust   1 hr 22 mins    █████████████████████████   99.82 %
+TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
