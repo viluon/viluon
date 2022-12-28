@@ -12,12 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust       44 mins         ██████████████▓░░░░░░░░░░   58.76 %
-Java       22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Lua        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-textmate   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java       22 mins         ███████████████░░░░░░░░░░   60.03 %
+Lua        7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Rust       6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+textmate   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
