@@ -12,7 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java   1 hr 2 mins     ██████████████████████▓░░   90.27 %
+Rust   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
 ```
 
 <!--END_SECTION:waka-->
