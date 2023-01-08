@@ -12,9 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Java     1 hr 28 mins    ██████████████████████░░░   88.14 %
-Rust     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Kotlin   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Java     1 hr 41 mins    ██████████████░░░░░░░░░░░   55.72 %
+C        1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   35.09 %
+Rust     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Kotlin   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
