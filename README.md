@@ -12,10 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-C        1 hr 9 mins     ██████████████▓░░░░░░░░░░   58.65 %
-Java     38 mins         ████████▒░░░░░░░░░░░░░░░░   32.89 %
-Kotlin   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Other    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+C        1 hr 9 mins     ███████████████░░░░░░░░░░   59.50 %
+Java     36 mins         ████████░░░░░░░░░░░░░░░░░   31.64 %
+Kotlin   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
