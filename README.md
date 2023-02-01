@@ -12,11 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust    2 hrs 59 mins   ███████████████▓░░░░░░░░░   62.93 %
-Text    1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-YAML    31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-Bash    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Rust       2 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.15 %
+Text       1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+YAML       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+C          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Bash       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
