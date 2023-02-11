@@ -12,11 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 48 mins   ██████████████████░░░░░░░   71.91 %
-Lua        47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Makefile   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-C++        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+C       1 hr 34 mins    █████████████████████████   99.75 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
