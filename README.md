@@ -12,12 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust         7 hrs 19 mins   ████████████░░░░░░░░░░░░░   47.80 %
-Lua          3 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Haskell      2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Koka         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Rust         7 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   44.91 %
+Lua          4 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+Haskell      2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Koka         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
