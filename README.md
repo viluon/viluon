@@ -12,12 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   24 mins         ██████████▒░░░░░░░░░░░░░░   41.43 %
-Lua          23 mins         █████████▓░░░░░░░░░░░░░░░   38.72 %
-JSON         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-TSConfig     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
