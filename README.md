@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   21 hrs 21 mins  ██████████████████░░░░░░░   72.66 %
-TeX          5 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Lua          1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TSConfig     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript     21 hrs 25 mins  ██████████████████▒░░░░░░   73.45 %
+TeX            4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Lua            1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+TSConfig       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
