@@ -12,12 +12,10 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX          5 hrs 25 mins   █████████████▓░░░░░░░░░░░   55.01 %
-Python       3 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.35 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TOML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+TeX          4 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   36.81 %
+Python       3 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+YAML         2 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
