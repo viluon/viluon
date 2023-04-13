@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX            12 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.47 %
-YAML           7 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-Lua            3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Bash           1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Other          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TeX            15 hrs 46 mins  █████████████░░░░░░░░░░░░   51.48 %
+YAML           7 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Lua            3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Bash           1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Other          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
