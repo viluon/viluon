@@ -12,12 +12,12 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Rust           8 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.47 %
-TeX            7 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.34 %
-Docker         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Bash           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Python         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-CSV            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Rust           9 hrs 33 mins   █████████████▒░░░░░░░░░░░   52.94 %
+TeX            7 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.03 %
+Bash           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Docker         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+CSV            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Python         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
