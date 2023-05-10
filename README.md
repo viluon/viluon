@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX            20 hrs 32 mins  ████████████████████████▒   97.30 %
-Other          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-BibTeX         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Docker         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TeX            16 hrs 39 mins  ████████████████████████▒   97.36 %
+Other          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Docker         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+BibTeX         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
