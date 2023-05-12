@@ -12,11 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-TeX            9 hrs 44 mins   ████████████████████████░   95.89 %
-Other          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Docker         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-BibTeX         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other    19 mins         ██████████████████████░░░   88.28 %
+Docker   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
 ```
 
 <!--END_SECTION:waka-->
