@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-C++          11 hrs 2 mins   █████████████░░░░░░░░░░░░   51.99 %
-Docker       3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Markdown     3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Bash         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Lua          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+C++          11 hrs 2 mins   ████████████▒░░░░░░░░░░░░   49.84 %
+Docker       3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Markdown     3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Bash         1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Other        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
