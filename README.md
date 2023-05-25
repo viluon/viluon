@@ -12,9 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```text
-Other      55 mins         ███████████████████████░░   91.37 %
-Lua        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Lua        4 mins          ███████████████████████▒░   93.97 %
+Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
