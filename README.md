@@ -11,12 +11,12 @@ Some thoughts to paint a picture:
 Here's an overview of coding time for the past seven days spent in personal projects and coursework:
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   2 hrs 14 mins   ███████████████████▒░░░░░   77.11 %
-Lua          33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
-YAML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```txt
+TypeScript   3 hrs 3 mins    █████████████████████▒░░░   84.80 %
+Lua          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Diff         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
