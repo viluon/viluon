@@ -12,10 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 46 mins    ██████████████████████░░░   88.08 %
-Text         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Git          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
