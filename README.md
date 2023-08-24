@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             3 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.24 %
-Java             1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-TypeScript       51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Other            28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Python           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+YAML             4 hrs 39 mins   ██████████▒░░░░░░░░░░░░░░   41.25 %
+Java             2 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+TypeScript       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Other            46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Markdown         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
