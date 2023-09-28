@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-TeX               5 hrs 21 mins   █████████████░░░░░░░░░░░░   52.55 %
-Nix               2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-Markdown          1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Text              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Nix               5 hrs           ███████████▓░░░░░░░░░░░░░   46.14 %
+TeX               3 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 %
+Markdown          1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Text              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
