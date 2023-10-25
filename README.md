@@ -12,11 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          13 mins         ███████████▒░░░░░░░░░░░░░   45.41 %
-Nix          10 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 %
-TypeScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Java         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Batchfile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java     2 mins          ███████████████▓░░░░░░░░░   63.01 %
+Nix      1 min           █████████▒░░░░░░░░░░░░░░░   36.89 %
+Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
