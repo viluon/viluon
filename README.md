@@ -12,9 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Java     2 mins          ███████████████▓░░░░░░░░░   63.01 %
-Nix      1 min           █████████▒░░░░░░░░░░░░░░░   36.89 %
-Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
