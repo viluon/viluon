@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       2 hrs 2 mins    ███████████████████░░░░░░   76.40 %
-TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Lua          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Vue.js       2 hrs 2 mins    ██████████████████▒░░░░░░   73.51 %
+TypeScript   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Lua          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
