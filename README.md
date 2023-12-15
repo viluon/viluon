@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 20 mins   █████████████▓░░░░░░░░░░░   55.03 %
-TeX        1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-Bash       29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-XML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Markdown   2 hrs 20 mins   ██████████████░░░░░░░░░░░   55.52 %
+TeX        1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+Bash       29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+XML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
