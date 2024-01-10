@@ -12,7 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   0 secs          █████████████████████████   100.00 %
+Markdown   1 min           ████████████████████████▓   98.74 %
+Rust       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
