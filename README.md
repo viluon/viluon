@@ -12,9 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         27 mins         ████████████████████████▓   98.55 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
