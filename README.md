@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 57 mins    ████████████▓░░░░░░░░░░░░   51.14 %
-C#           38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Python       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Text         28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+C#           1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Python       1 hr 4 mins     ███████░░░░░░░░░░░░░░░░░░   28.42 %
+Text         30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Rust         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+C++          24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
 ```
 
 <!--END_SECTION:waka-->
