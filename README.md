@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 34 mins   ████████████▓░░░░░░░░░░░░   50.58 %
-C#           1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Python       1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Text         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-C++          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Markdown     4 hrs 7 mins    █████████████████▓░░░░░░░   70.73 %
+Python       34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+C#           30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+C++          24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
