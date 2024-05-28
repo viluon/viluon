@@ -12,7 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX          12 mins         █████████████████░░░░░░░░   67.38 %
+TypeScript   5 mins          ████████░░░░░░░░░░░░░░░░░   31.48 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
