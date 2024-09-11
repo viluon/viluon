@@ -12,9 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 14 mins    ████████████████████████░   95.74 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+YAML   11 mins         ███████████████████████░░   92.46 %
+Git    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:waka-->
