@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            8 hrs 49 mins   █████████████████████▒░░░   85.60 %
-Markdown          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-YAML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Protocol Buffer   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Cheetah           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Kotlin            5 hrs 44 mins   █████████████████████▓░░░   86.10 %
+Markdown          25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+YAML              18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
