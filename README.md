@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin         5 hrs 9 mins    ██████████████████▒░░░░░░   73.07 %
-YAML           1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Markdown       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Bash           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-HTML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Kotlin         4 hrs 5 mins    ███████████████▓░░░░░░░░░   62.22 %
+YAML           1 hr 49 mins    ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Markdown       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Bash           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+HTML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
