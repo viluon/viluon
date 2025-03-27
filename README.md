@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin               12 hrs 38 mins  ██████████████████▒░░░░░░   73.48 %
-YAML                 3 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-Python               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Markdown             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Java Properties      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Kotlin            14 hrs 48 mins  ████████████████████░░░░░   80.23 %
+YAML              3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Markdown          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Java Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
