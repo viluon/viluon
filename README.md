@@ -12,9 +12,7 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   11 mins         █████████████▓░░░░░░░░░░░   55.19 %
-YAML     8 mins          ███████████░░░░░░░░░░░░░░   44.24 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
