@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix              9 hrs 26 mins   ████████████░░░░░░░░░░░░░   47.89 %
-Bash             2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Kotlin           2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-YAML             1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Shell Script     1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Nix               9 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   46.65 %
+Kotlin            3 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Bash              2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+YAML              1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Shell Script      1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 ```
 
 <!--END_SECTION:waka-->
