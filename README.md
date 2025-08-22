@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            15 hrs 29 mins  █████████▓░░░░░░░░░░░░░░░   38.92 %
-TypeScript        12 hrs 26 mins  ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-Nix               7 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-YAML              1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Lua               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Kotlin            14 hrs 22 mins  █████████▓░░░░░░░░░░░░░░░   38.00 %
+TypeScript        11 hrs 50 mins  ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+Nix               6 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+YAML              1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Markdown          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
