@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin              10 hrs 15 mins  ███████████████▓░░░░░░░░░   62.70 %
-Nix                 4 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Markdown            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Gradle Kotlin DSL   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-YAML                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Kotlin            10 hrs 46 mins  ████████████████░░░░░░░░░   63.54 %
+Nix               3 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+YAML              1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Markdown          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Java              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
