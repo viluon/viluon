@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix               9 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
-Kotlin            8 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.53 %
-YAML              40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Text              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Shell Script      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Nix               10 hrs          ████████████▓░░░░░░░░░░░░   50.50 %
+Kotlin            8 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   43.23 %
+YAML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Shell Script      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
