@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin               9 hrs 10 mins   ██████████████░░░░░░░░░░░   55.39 %
-Nix                  3 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-Protocol Buffer      1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Markdown             59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-protobuf             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Kotlin               8 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.30 %
+Nix                  5 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.87 %
+Protocol Buffer      1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Markdown             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+protobuf             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
