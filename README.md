@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            7 hrs 21 mins   █████████████████▒░░░░░░░   69.09 %
-Nix               1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-GLSL              45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-TOML              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Other             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Kotlin            7 hrs 21 mins   █████████████████▒░░░░░░░   69.35 %
+Nix               1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+GLSL              45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+TOML              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
