@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix               27 mins               █████████████▓░░░░░░░░░░░   54.33 %
-JSON              9 mins                █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Bash              6 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Markdown          4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Other             2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JSON              9 mins                ████████▒░░░░░░░░░░░░░░░░   33.99 %
+Nix               6 mins                ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+Bash              6 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Markdown          3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Other             2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 ```
 
 <!--END_SECTION:waka-->
