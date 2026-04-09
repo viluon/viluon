@@ -12,7 +12,8 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix   9 mins                █████████████████████████   100.00 %
+Nix    26 mins               ███████████████████████░░   91.42 %
+Bash   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
 ```
 
 <!--END_SECTION:waka-->
