@@ -12,8 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix    26 mins               ███████████████████████░░   91.42 %
-Bash   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Kotlin     54 mins               ███████████████░░░░░░░░░░   60.29 %
+Nix        26 mins               ███████▒░░░░░░░░░░░░░░░░░   29.72 %
+Java       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Bash       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Mustache   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
