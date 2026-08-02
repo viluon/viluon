@@ -12,9 +12,9 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Nix      1 hr 4 mins           ███████████████▓░░░░░░░░░   62.66 %
-Python   37 mins               █████████▒░░░░░░░░░░░░░░░   36.74 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Nix      1 hr 4 mins           █████████████░░░░░░░░░░░░   52.57 %
+Python   57 mins               ███████████▓░░░░░░░░░░░░░   46.93 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
