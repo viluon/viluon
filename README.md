@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 42 mins          ███████████▒░░░░░░░░░░░░░   45.13 %
-Nix          1 hr 19 mins          ████████▓░░░░░░░░░░░░░░░░   35.11 %
-Other        44 mins               █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-Scala        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       1 hr 42 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+Kotlin       1 hr 37 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Other        1 hr 22 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Nix          1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+Scala        20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
