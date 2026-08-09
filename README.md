@@ -12,11 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin               2 hrs 57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-YAML                 2 hrs 23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Nix                  2 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Other                1 hr 25 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Scala                58 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+YAML                   4 hrs 42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+Kotlin                 3 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Nix                    2 hrs 27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Other                  1 hr 53 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Scala                  1 hr 1 min            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
