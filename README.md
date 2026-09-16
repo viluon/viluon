@@ -12,7 +12,11 @@ Here's an overview of coding time for the past seven days spent in personal proj
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            27 mins               ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Scala             24 mins               ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+JSON              9 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Properties        7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+protobuf          6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
